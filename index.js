@@ -15,8 +15,4 @@ function sayHiToGrandma(string) {
   if (true) {shout(string)
 
   } else {"YES INDEED!"
-    
-  }
-
-  }
 }
