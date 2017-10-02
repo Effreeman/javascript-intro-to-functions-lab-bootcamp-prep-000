@@ -15,4 +15,3 @@ function sayHiToGrandma(HELLO) {
 function sayHiToGrandma(hello) {
   return ("YES INDEED!")
 }
-
