@@ -14,3 +14,7 @@ function sayHiToGrandma(string) {
   return ("I can't hear you!")
   if (true) {shout(string)}
 }
+function sayHiToGrandma(string) {
+  return ("YES INDEED!")
+    if (true) {whisper(string)}
+  }
