@@ -12,9 +12,9 @@ function logWhisper(string) {
 }
 function sayHiToGrandma(string) {
   return ("I can't hear you!")
-  if (true) {shout(hello)}
+  if (true) {shout(string)}
 }
 function sayHiToGrandma(string) {
   return ("YES INDEED!")
-    if (true) {whisper(HELLO)}
+    if (true) {whisper(whisper)}
   }
