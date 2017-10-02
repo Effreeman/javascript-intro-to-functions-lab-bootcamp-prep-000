@@ -17,4 +17,4 @@ function sayHiToGrandma(HELLO) {
   return ("YES INDEED!")
 }
 function sayHiToGrandma(string){
-return ("I love you, too.") if "I love you, Grandma." }
+return ("I love you, too.") spy "I love you, Grandma." }
