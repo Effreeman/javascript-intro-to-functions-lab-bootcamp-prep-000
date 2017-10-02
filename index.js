@@ -16,5 +16,5 @@ function sayHiToGrandma(string) {
 }
 function sayHiToGrandma(string) {
   return ("YES INDEED!")
-    if (true) {whisper(whisper)}
+    if (true) {whisper(string)}
   }
