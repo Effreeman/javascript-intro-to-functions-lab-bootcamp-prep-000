@@ -16,3 +16,9 @@ function sayHiToGrandma(hello) {
 function sayHiToGrandma(hello) {
   return "I can't hear you!"
 }
+function sayHiToGrandma(HELLO) {
+  return HELLO.toUpperCase
+}
+function sayHiToGrandma(HELLO) {
+  return "YES INDEED!"
+}
