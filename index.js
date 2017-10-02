@@ -10,11 +10,7 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
-function sayHiToGrandma(hello) {
-  return ("I can't hear you!")
+function sayHiToGrandma(string) {
+  return ('hello')
 }
-function sayHiToGrandma(HELLO) {
-  return ("YES INDEED!")
-}
-function sayHiToGrandma(string){
-return ("I love you, too.") spy "I love you, Grandma." }
+
